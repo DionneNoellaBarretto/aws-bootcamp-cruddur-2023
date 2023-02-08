@@ -2,8 +2,10 @@
 
 - Application: Cruddur
 - Cohort: 2023-A1
+- [Youtube Playlist](https://www.youtube.com/playlist?list=PLBfufR7vyJJ609vhGNS4I9wRCL8aI59Rd)
+-[Discord]()
 
-This is the starting codebase that will be used in the FREE AWS Cloud Project Bootcamp 2023
+This is the starting codebase that will be used in the [FREE AWS Cloud Project Bootcamp 2023](https://student.cloudprojectbootcamp.com/profile)
 
 ![Cruddur Graphic](_docs/assets/cruddur-banner.jpg)
 
