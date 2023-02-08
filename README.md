@@ -3,7 +3,13 @@
 - Application: Cruddur
 - Cohort: 2023-A1
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBfufR7vyJJ609vhGNS4I9wRCL8aI59Rd)
--[Discord]()
+-[Discord](https://discord.com/channels/1055552619441049660/1069062377766666300)
+- [AWS Cloud Project Bootcamp Outline](https://docs.google.com/document/d/19XMyd5zCk7S9QT2q1_Cg-wvbnBwOge7EgzgvtVCgcz0/edit?usp=sharing)
+- [AWS Cloud Project Bootcamp FAQs](https://docs.google.com/document/d/1VEs2i_tm1FxUatu1ZfUZH8EEVlhN9XWpVDvqg7GYeKM/edit?usp=sharing)
+- [AWS Cloud Project Bootcamp Surveys](https://docs.google.com/document/d/1XWuCvo2HkCUhqMpJiv0K5fJDKWkkO6AoXP8rnT39vkk/edit?usp=sharing)
+- [AWS Cloud Project Bootcamp Codes of Conduct](https://docs.google.com/document/d/1Rutvjt1uBtq_SbDg-0cmImjHqq5IvGK8FIzW1L-9FDk/edit?usp=sharing)
+- [AWS Cloud Project Bootcamp Sponsorship Package](https://docs.google.com/document/d/1FpVI2fZaji-q2xPj8BIxOWjUjnd7wsYZfxqFc1aa0VY/edit?usp=sharing)
+- AWS Ontario Virtual User Group Meetup Page
 
 This is the starting codebase that will be used in the [FREE AWS Cloud Project Bootcamp 2023](https://student.cloudprojectbootcamp.com/profile)
 
