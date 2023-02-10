@@ -10,7 +10,7 @@
 - [AWS Cloud Project Bootcamp Codes of Conduct](https://docs.google.com/document/d/1Rutvjt1uBtq_SbDg-0cmImjHqq5IvGK8FIzW1L-9FDk/edit?usp=sharing)
 - [AWS Cloud Project Bootcamp Sponsorship Package](https://docs.google.com/document/d/1FpVI2fZaji-q2xPj8BIxOWjUjnd7wsYZfxqFc1aa0VY/edit?usp=sharing)
 - [AWS Ontario Virtual User Group Meetup Page](https://www.meetup.com/aws-ontario-virtual-user-group/)
-- [Discounted Training Deals]()
+- [Discounted Training Deals - LIMITED TIME ONLY!](https://docs.google.com/spreadsheets/d/1EDxIryZ11maOC-P8f3wPlI_fQv6gTnBc0sbDL_wojIY/edit#gid=0) 
 This is the starting codebase that will be used in the [FREE AWS Cloud Project Bootcamp 2023](https://student.cloudprojectbootcamp.com/profile)
 
 ![Cruddur Graphic](_docs/assets/cruddur-banner.jpg)
