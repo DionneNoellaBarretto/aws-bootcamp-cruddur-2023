@@ -1,7 +1,8 @@
 # FREE AWS Cloud Project Bootcamp
-
+```
 - Application: Cruddur
 - Cohort: 2023-A1
+```
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBfufR7vyJJ609vhGNS4I9wRCL8aI59Rd)
 - [Discord](https://discord.com/channels/1055552619441049660/1069062377766666300)
 - [AWS Cloud Project Bootcamp Outline](https://docs.google.com/document/d/19XMyd5zCk7S9QT2q1_Cg-wvbnBwOge7EgzgvtVCgcz0/edit?usp=sharing)
@@ -12,6 +13,8 @@
 - [AWS Cloud Project Bootcamp Sponsorship Package](https://docs.google.com/document/d/1FpVI2fZaji-q2xPj8BIxOWjUjnd7wsYZfxqFc1aa0VY/edit?usp=sharing)
 - [AWS Ontario Virtual User Group Meetup Page](https://www.meetup.com/aws-ontario-virtual-user-group/)
 - [Discounted Training Deals - LIMITED TIME ONLY!](https://docs.google.com/spreadsheets/d/1EDxIryZ11maOC-P8f3wPlI_fQv6gTnBc0sbDL_wojIY/edit#gid=0) 
+
+
 This is the starting codebase that will be used in the [FREE AWS Cloud Project Bootcamp 2023](https://student.cloudprojectbootcamp.com/profile)
 
 ![Cruddur Graphic](_docs/assets/cruddur-banner.jpg)
@@ -128,11 +131,11 @@ Additionally, it will increase sense of community and increase trust and safety 
 What is the hardest challenge for micro-blogging platforms? Monetizing their platform for long terms sustainability and a strong exit strategy.
 
 A micro-blogging platform with expiring posts can be great for monetization in several ways:
-📝 Increases user engagement: With expiring posts, users are more likely to be active and engaged on the platform, as they have a sense of urgency to view and interact with content before it disappears. This increased engagement can lead to more opportunities for monetization, such as through advertising or sponsored content.
-📝 Encourages user-generated content: By limiting the lifespan of posts, the platform can create an environment where users are more likely to create and share new content, rather than just scrolling through old posts. This user-generated content can be monetized through advertising or sponsored content.
-📝 Creates a sense of exclusivity: Expiring posts can create a sense of exclusivity and scarcity, making users more likely to engage with the platform and view sponsored content.
-📝 Enhances the platform's ability to target ads: An ephemeral platform can enhance the platform's ability to target ads, as the platform can gather data on users' interests, preferences, and conversations that are currently relevant. This allows for more effective and relevant targeting of ads, which can increase the value of the platform for advertisers.
-📝 Provides opportunities for in-platform transactions: An ephemeral platform allows for the platform to enable in-platform transactions, such as purchasing access to certain content or exclusive feature, which can be monetized.
+📎 Increases user engagement: With expiring posts, users are more likely to be active and engaged on the platform, as they have a sense of urgency to view and interact with content before it disappears. This increased engagement can lead to more opportunities for monetization, such as through advertising or sponsored content.
+📎 Encourages user-generated content: By limiting the lifespan of posts, the platform can create an environment where users are more likely to create and share new content, rather than just scrolling through old posts. This user-generated content can be monetized through advertising or sponsored content.
+📎 Creates a sense of exclusivity: Expiring posts can create a sense of exclusivity and scarcity, making users more likely to engage with the platform and view sponsored content.
+📎 Enhances the platform's ability to target ads: An ephemeral platform can enhance the platform's ability to target ads, as the platform can gather data on users' interests, preferences, and conversations that are currently relevant. This allows for more effective and relevant targeting of ads, which can increase the value of the platform for advertisers.
+📎 Provides opportunities for in-platform transactions: An ephemeral platform allows for the platform to enable in-platform transactions, such as purchasing access to certain content or exclusive feature, which can be monetized.
 ```
 
 In summary, a micro-blogging platform with expiring posts can be great for monetization as it:
