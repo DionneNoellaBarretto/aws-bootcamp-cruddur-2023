@@ -44,52 +44,35 @@ TBD
 TBD
 ```
 
-## Homework Challenges 
+## Homework Challenges
 
 ✅ [Destroy your root account](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#id_root-user_manage_delete-key), [Set MFA](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html), IAM role
-
-![MFA, Root user](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0%20-%20IAM%20Root%20MFA.png)
-
 ![MFA, IAM user](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-%20IAM%20Logged%20in.png)
-
 ![IAM user logging in](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-%20IAM%20Login.png)
-
 ✅ [Set a billing alarm](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html#turning_on_billing_metrics), [Set a AWS Budget](https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-create.html)
-
 ![Billing Alert](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-Billing%20Alerts.png)
-
 ![Budget](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-Budget.png)
-
-✅ Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a service health issue.
 ✅ Review all the questions of each pillars in the [Well Architected](https://aws.amazon.com/architecture/well-architected/) Tool (No specialized lens)
 ✅ Research the technical and [service limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html) of specific services and how they could impact the technical path for technical flexibility. 
 ✅ Open a support ticket and request a service limit
+![Ticket](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-SupportCe-Limit%20Increase.png)
+✅ Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a service health issue
 ✅ Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
  ([HighLevel Architecture Flow](https://lucid.app/lucidchart/8dd4bb31-a6b9-480b-986f-65f8256dc229/edit?invitationId=inv_743505e2-23ee-42d6-84dc-aabcde24a6d3))
+
 -----
-## Highlevel Architecture Considerations (Well Architecture Inspired):
+## Highlevel Architecture Considerations (Well Architecture Framework Inspired):
 
 To architect a Twitter Clone/Similar Microservice Application on AWS, the following steps should be considered:
 
 👉 Define the requirements and scope of the application: To start with, need to finalize on defines requirements of your application, such as how many users to handle, how many posts per second, handling followers and followees etc. This will help you determine the right components and services to use in your architecture
-
 👉 Choose a load balancer: To handle/distribute the incoming traffic (may be evenly) to your application, could use an Amazon ELB or Amazon ALB to balance the load between multiple instances of microservices
-
 👉 Content Delivery Network (CDN): To serve media files, such as images and videos, could use Amazon CloudFront to distribute the content closer to the end-user for faster delivery
-
 👉 Cache: To improve the performance of your application, you can use Amazon ElastiCache for in-memory caching
-
 👉 Decide on a database: Could choose to use a relational database like Amazon RDS or a NoSQL database like Amazon DynamoDB depending on use case and requirements to store user information and posts. If large amounts of data, may want to consider using Amazon S3 or Amazon Glacier for long-term data storage
-
 👉 Monitor and scale the application: Could use Amazon CloudWatch and Amazon Auto Scaling to monitor application and scale it as needed to handle changing traffic patterns. Also could use Amazon ECS or EKS to monitor and manage the performance of your application. This will help identify and resolve issues quickly, ensuring the reliability and availability of the application.
-
 👉 Application instances: To handle incoming requests, can have multiple instances of application running in Amazon EC2 or Amazon ECS depending on budget/requirements
-
 👉 Data model: Design the data model: Create a data model that defines the data that needs to be stored in each microservice, as well as the relationships between the data. This will help you determine the appropriate storage options and help you with data consistency.
-
-
 👉 App refactor aka create microservices: Write the code for each microservice, using the appropriate programming languages and frameworks for each. Make sure to follow best practices for writing scalable and secure microservices. Create multiple microservices for application, such as a user management service, a post management service, and a notifications service. Each service can be deployed in its own Amazon EC2 instance or using Amazon ECS or Amazon Fargate, depending on overall budget/needs.
-
 👉  MVP: Deploy and test the microservices: Deploy the microservices to the AWS environment and test them to make sure they work as expected. This will help you identify and resolve any issues before your application goes live.
-
 👉 Use Amazon SNS for notifications: To send notifications to users, use Amazon SNS to publish messages to multiple subscribers, such as email, SMS, and mobile push notifications
