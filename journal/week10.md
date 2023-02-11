@@ -25,7 +25,7 @@ We do not expect to be changing our IaC often due to our small team and since we
 ✅ Deploy infrastructure via IaC service that manages the remote state
 ```
 
-## Possible Spend Considerations
+## [Possible Spend Considerations](https://docs.google.com/document/d/10Hec7Or1ZUedl0ye-05mVPhYFR5-ySh2K8ZbFqTxu1w/edit#bookmark=id.pc57r5n8uv1)
 ```
 👉 AWS CloudFormation is free, but the resources it can provision may not be. Review the overall cost of what we are provisioning
 ```

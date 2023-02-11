@@ -18,7 +18,7 @@ The fractional CTO has suggested that authentication be solved before implementi
 ```
 ✅Practical knowledge of implementing a decentralized authentication service into a web-application with custom login and signup pages in a react application.
 ```
-## Possible Spend Considerations
+## [Possible Spend Considerations](https://docs.google.com/document/d/10Hec7Or1ZUedl0ye-05mVPhYFR5-ySh2K8ZbFqTxu1w/edit#bookmark=id.ykmfzr7f5ttu)
 ```
 👉 TBD
 ```

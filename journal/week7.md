@@ -15,7 +15,7 @@ In the class, we are going to:
  
 *We need a domain name, so you need to either purchase a domain name or use a free domain name eg. freenom. Domain names take time to create and propagate, so you have mandatory homework, or we’ll have an extra half-class just for domains between weeks 6 and 7.
 
-```
+
 ## Business Scenario
 ```
 
@@ -26,13 +26,13 @@ In the class, we are going to:
 ✅ Configuring TLS termination at the load balancer
 ✅ Deploying and configuring a load balancer for multiple subdomains
 ✅ Basic understanding of solving CORS issues and backend-to-frontend communication
-
 ```
-## Possible Spend Considerations
+
+## [Possible Spend Considerations](https://docs.google.com/document/d/10Hec7Or1ZUedl0ye-05mVPhYFR5-ySh2K8ZbFqTxu1w/edit#bookmark=id.aqpo6qrpojy9)
+
 ```
 👉 ALB free-tier and monthly cost of ALB
 👉 Avoiding private ACM
-
 ```
 ## Alternatives and Considerations
 ```

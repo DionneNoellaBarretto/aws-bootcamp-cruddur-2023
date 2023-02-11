@@ -29,7 +29,7 @@ The company also wants to generally know what spend we expect to encounter and h
 ✅ To gain a general idea of the cost of common cloud services
 ✅ To ensure we have a working AWS account
 ```
-## Possible Spend Considerations
+## [Possible Spend Considerations](https://docs.google.com/document/d/10Hec7Or1ZUedl0ye-05mVPhYFR5-ySh2K8ZbFqTxu1w/edit#bookmark=id.n67i8zg8ikxc)
 ```
 👉 You need a credit card to activate your AWS Account
 👉 If your AWS account is older than a year, you will not be eligible for some free-tier services.

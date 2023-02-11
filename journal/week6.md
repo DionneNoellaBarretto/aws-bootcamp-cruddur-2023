@@ -39,7 +39,7 @@ The CTO wants us to deploy the frontend and backend as separate containers, to e
 ✅ Basic knowledge of working with a cloud CLI
 
 ```
-## Possible Spend Considerations
+## [Possible Spend Considerations](https://docs.google.com/document/d/10Hec7Or1ZUedl0ye-05mVPhYFR5-ySh2K8ZbFqTxu1w/edit#bookmark=id.cxxxocsnwv9z)
 ```
 👉 Elastic Container Repository spend
 👉 Fargate Compute Spend

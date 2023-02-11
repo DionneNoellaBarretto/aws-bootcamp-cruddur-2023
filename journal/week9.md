@@ -29,7 +29,7 @@ The CTO has chosen that we use AWS CodePipeline simply due to leveraging more of
 ✅ Implement Continuous Deployment for backend and frontend applications
 
 ```
-## Possible Spend Considerations
+## [Possible Spend Considerations](https://docs.google.com/document/d/10Hec7Or1ZUedl0ye-05mVPhYFR5-ySh2K8ZbFqTxu1w/edit#bookmark=id.kgk7xd394kyy)
 ```
 👉 Detail Codebuild costs
 👉 Detail Codedeploy costs

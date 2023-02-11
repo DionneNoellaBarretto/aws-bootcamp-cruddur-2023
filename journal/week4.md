@@ -49,7 +49,7 @@ To keep up with the pace of feature development, the CTO has suggested we use Po
 ✅ Basic knowledge of working with an Online Analytical Processing (OLAP)
 
 ```
-## Possible Spend Considerations
+## [Possible Spend Considerations](https://docs.google.com/document/d/10Hec7Or1ZUedl0ye-05mVPhYFR5-ySh2K8ZbFqTxu1w/edit#bookmark=id.z4yyfmaafnom)
 ```
 👉 RDS instance
 👉 RDS Snapshots
