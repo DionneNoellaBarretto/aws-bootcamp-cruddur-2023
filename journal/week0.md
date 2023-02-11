@@ -63,7 +63,8 @@ TBD
 ✅ Open a support ticket and request a service limit
 ![Ticket](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-SupportCase.png)
 
-✅ Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a service health issue
+✅ [Use EventBridge to hookup Health Dashboard](https://docs.aws.amazon.com/health/latest/ug/cloudwatch-events-health.html#creating-event-bridge-events-rule-for-aws-health) to SNS and send notification when there is a service health issue
+![Ticket](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-SupportCase.png)
 
 ✅ Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
  ([HighLevel Architecture Flow](https://lucid.app/lucidchart/8dd4bb31-a6b9-480b-986f-65f8256dc229/edit?invitationId=inv_743505e2-23ee-42d6-84dc-aabcde24a6d3))
