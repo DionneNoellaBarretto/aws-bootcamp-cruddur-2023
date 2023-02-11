@@ -64,14 +64,13 @@ TBD
 ![Ticket](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-SupportCase.png)
 
 ✅ [Use EventBridge to hookup Health Dashboard](https://docs.aws.amazon.com/health/latest/ug/cloudwatch-events-health.html#creating-event-bridge-events-rule-for-aws-health) to SNS and send notification when there is a service health issue
-![Ticket](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-SupportCase.png)
+![EventBridge SNS Notification rule](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-EventBridge%20Alerts.png)
 
 ✅ Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
  ([HighLevel Architecture Flow](https://lucid.app/lucidchart/8dd4bb31-a6b9-480b-986f-65f8256dc229/edit?invitationId=inv_743505e2-23ee-42d6-84dc-aabcde24a6d3))
 
-## Highlevel Architecture Considerations (Well Architecture Framework Inspired):
-
-To architect a Twitter Clone/Similar Microservice Application on AWS, the following steps should be considered:
+## Highlevel Architecture /CI CD Pipeline Considerations (Well Architecture Framework Inspired):
+#### To architect a Twitter Clone/Similar Microservice Application on AWS, the following steps should be considered:
 
 👉 Define the requirements and scope of the application: To start with, need to finalize on defines requirements of your application, such as how many users to handle, how many posts per second, handling followers and followees etc. This will help you determine the right components and services to use in your architecture
 
@@ -94,3 +93,19 @@ To architect a Twitter Clone/Similar Microservice Application on AWS, the follow
 👉  MVP: Deploy and test the microservices: Deploy the microservices to the AWS environment and test them to make sure they work as expected. This will help you identify and resolve any issues before your application goes live.
 
 👉 Use Amazon SNS for notifications: To send notifications to users, use Amazon SNS to publish messages to multiple subscribers, such as email, SMS, and mobile push notifications
+
+#### For the CI/CD pipeline the following steps should be considered (thought the actual implementation may vary based on the specific requirements of application):
+
+👉 Set up the AWS environment: Create an AWS account, Set up an Amazon S3 bucket to store the application code and artifacts, Create an Amazon EC2 instance or an AWS Elastic Beanstalk environment to host the application
+
+👉 Write the Code: Write the code for your Twitter application and store it in a code repository like GitHub
+
+👉 Create a CodeBuild Project: Use AWS CodeBuild to automate the building and testing of code whenever a change is pushed to the repository
+
+👉 Create a CodePipeline: Use AWS CodePipeline to automate the deployment of your application since it integrates with CodeBuild and S3 to continuously delivering code from the Github repository to the production environment
+
+👉 Configure the CodePipeline Stages: The source stage pulls the code from the repository and stores it in S3 followed by the build stage uses CodeBuild to build and test the code sequenced by the deploy stage uses AWS Elastic Beanstalk to deploy the code to the production environment
+
+👉 Test the Pipeline: Test the pipeline end-to-end to make sure it works as expected
+
+👉 Monitor the Pipeline: Use Amazon CloudWatch to monitor the pipeline and receive alerts in case of any issues
