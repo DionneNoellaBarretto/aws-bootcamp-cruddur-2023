@@ -23,12 +23,15 @@ Your presentation must include a technical architectural diagram and breakdown o
 The company also wants to generally know what spend we expect to encounter and how we will ensure we keep our spending low.
 ```
 ## Weekly Outcome
-```
+
 ✅ Gain confidence when working meter-billing with a Cloud Service Provider (CSP)
-✅ To understand how to build useful architecture diagrams
+
+✅ To understand how to build [useful architecture diagrams- Chris' Examples](https://lucid.app/lucidchart/6f80cd2d-7d18-4731-aadc-bdda9773c092/edit?invitationId=inv_c648fee2-f691-443d-8602-7e959b41a18d&page=0_0#)
+
 ✅ To gain a general idea of the cost of common cloud services
+
 ✅ To ensure we have a working AWS account
-```
+
 ## [Possible Spend Considerations](https://docs.google.com/document/d/10Hec7Or1ZUedl0ye-05mVPhYFR5-ySh2K8ZbFqTxu1w/edit#bookmark=id.n67i8zg8ikxc)
 ```
 👉 You need a credit card to activate your AWS Account
