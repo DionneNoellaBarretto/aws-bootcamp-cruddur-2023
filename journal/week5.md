@@ -3,11 +3,17 @@
 In the class, we are going to:
 
 👉 Have a lecture about data modeling (Single Table Design) for NoSQL
+
 👉 Launch [DynamoDB local](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
+
 👉 Seed our DynamoDB tables with data using [Faker](https://faker.readthedocs.io/en/master/)
+
 👉 Write [AWS SDK code for DynamoDB](https://docs.aws.amazon.com/code-library/latest/ug/python_3_dynamodb_code_examples.html) to query and scan put-item, for predefined endpoints
+
 👉 Create a production DynamoDB table
+
 👉 Update our backend app to use the production DynamoDB
+
 👉 Add a caching layer using [Momento Severless Cache](https://github.com/momentohq/client-sdk-python)
 
 ## Business Scenario

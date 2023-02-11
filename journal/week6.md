@@ -5,12 +5,19 @@ In the class, we are going to:
 
 
 👉 Create an [Elastic Container Repository - ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/repository-create.html)
+
 👉 Push our container images to ECR
+
 👉 Write an [ECS Task Definition](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definitions.html) file for Fargate
+
 👉 Launch our [Fargate services](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html) via CLI
+
 👉 Test that our services individually work
+
 👉 Play around with Fargate desired capacity
+
 👉 How to push new updates to your code update Fargate running tasks
+
 👉 Test that we have a [Cross-origin Resource Sharing (CORS)](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) issue
 
 ## Business Scenario

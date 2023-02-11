@@ -4,10 +4,15 @@
 In the class, we are going to:
 
 👉 Test our JavaScript code to use [Sharp](https://sharp.pixelplumbing.com/) and process a thumbnail
+
 👉 Write an [AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/lambda-nodejs.html) function
+
 👉 Deploy our Lambda function
+
 👉 Create an [S3 Bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/create-bucket-overview.html)
+
 👉 Create an [S3 Event Notification](https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-enable-disable-notification-intro.html) to process images upload to S3 and deposit them back in the bucket
+
 👉 Implement basic file upload to S3 client-side
 
 

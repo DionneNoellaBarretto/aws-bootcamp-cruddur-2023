@@ -4,9 +4,13 @@
 In the class, we are going to:
 
 👉 Write a [buildspec.yml](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html) to build new images from our GitHub repository
+
 👉 Test [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/create-project.html) is building and tagging our images correctly
+
 👉 Write an [appspec.yml](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file.html#appspec-reference-ecs) with multiple lambda for steps
+
 👉 Manually trigger a deploy with [CodeDeploy](https://docs.aws.amazon.com/AmazonECS/latest/userguide/create-blue-green.html) to Fargate
+
 👉 Create a [CodePipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html) that will trigger CodeBuild and CodeDeploy when code changes are pushed to our GitHub repository
 
 ## Business Scenario

@@ -4,16 +4,27 @@
 In the class, we are going to:
 
 👉 Have a lecture about data modelling in (3rd Normal Form) 3NF for SQL
+
 👉 Launch Postgres locally via a container
+
 👉 Seed our Postgres Database table with data
+
 👉 Write a Postgres adapter
+
 👉 Write a DDL (for creating schema)
+
 👉 Write an SQL read query
+
 👉 Write an SQL write query
+
 👉 Provision an [RDS Postgres instance](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_PostgreSQL.html)
+
 👉 Configure [VPC Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
+
 👉 Configure local backend application to use production connection URL
+
 👉 Add a caching layer using Momento Serverless Cache
+
 👉 Propagate metrics from DDB to an RDS metrics table 
 
 ## Business Scenario
