@@ -67,10 +67,10 @@ TBD
 ![EventBridge SNS Notification rule](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-EventBridge%20Alerts.png)
 
 ✅ Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
- ([HighLevel Architecture Flow](https://lucid.app/lucidchart/8dd4bb31-a6b9-480b-986f-65f8256dc229/edit?invitationId=inv_743505e2-23ee-42d6-84dc-aabcde24a6d3))
-
+ ([HighLevel CI/CD Architecture Flow](https://lucid.app/lucidchart/8dd4bb31-a6b9-480b-986f-65f8256dc229/edit?invitationId=inv_743505e2-23ee-42d6-84dc-aabcde24a6d3))
+![HighLevel CI/CD Architecture Dgm](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/ac3068aa20af8d9d8bd11c39563ecdcc0b2347b8/_docs/Week0-%20Highlevel%20Architecture.png)
 ## Highlevel Architecture /CI CD Pipeline Considerations (Well Architecture Framework Inspired):
-#### To architect a Twitter Clone/Similar Microservice Application on AWS, the following steps should be considered:
+### To architect a Twitter Clone/Similar Microservice Application on AWS, the following steps should be considered:
 
 👉 Define the requirements and scope of the application: To start with, need to finalize on defines requirements of your application, such as how many users to handle, how many posts per second, handling followers and followees etc. This will help you determine the right components and services to use in your architecture
 
@@ -94,7 +94,7 @@ TBD
 
 👉 Use Amazon SNS for notifications: To send notifications to users, use Amazon SNS to publish messages to multiple subscribers, such as email, SMS, and mobile push notifications
 
-#### For the CI/CD pipeline the following steps should be considered (thought the actual implementation may vary based on the specific requirements of application):
+### For the CI/CD pipeline the following steps should be considered (thought the actual implementation may vary based on the specific requirements of application):
 
 👉 Set up the AWS environment: Create an AWS account, Set up an Amazon S3 bucket to store the application code and artifacts, Create an Amazon EC2 instance or an AWS Elastic Beanstalk environment to host the application
 
