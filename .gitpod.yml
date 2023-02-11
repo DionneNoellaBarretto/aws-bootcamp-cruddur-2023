@@ -2,3 +2,4 @@
 vscode:
   extensions:
     - 42Crunch.vscode-openapi
+    - amazonwebservices.aws-toolkit-vscode
