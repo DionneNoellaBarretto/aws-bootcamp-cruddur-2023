@@ -7,7 +7,7 @@
 - [Discord](https://discord.com/channels/1055552619441049660/1069062377766666300)
 - [AWS Cloud Project Bootcamp Outline](https://docs.google.com/document/d/19XMyd5zCk7S9QT2q1_Cg-wvbnBwOge7EgzgvtVCgcz0/edit?usp=sharing)
 - [AWS Cloud Project Bootcamp FAQs](https://docs.google.com/document/d/1VEs2i_tm1FxUatu1ZfUZH8EEVlhN9XWpVDvqg7GYeKM/edit?usp=sharing) 
-- 
+- [AWS Cloud Project Bootcamp Spending Considerations](https://docs.google.com/document/d/10Hec7Or1ZUedl0ye-05mVPhYFR5-ySh2K8ZbFqTxu1w/edit#heading=h.sfgk2xkezrng)
 - [AWS Cloud Bootcamp Grading Rubric (Individual vs Team)](https://docs.google.com/document/d/1ib98SsYYwWlqkGWZ_s9u0KFFovn_GtLsEV3JJaJ1890/edit)
 - [AWS Cloud Project Bootcamp Surveys](https://docs.google.com/document/d/1XWuCvo2HkCUhqMpJiv0K5fJDKWkkO6AoXP8rnT39vkk/edit?usp=sharing)
 - [AWS Cloud Project Bootcamp Codes of Conduct](https://docs.google.com/document/d/1Rutvjt1uBtq_SbDg-0cmImjHqq5IvGK8FIzW1L-9FDk/edit?usp=sharing)
