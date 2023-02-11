@@ -29,7 +29,7 @@ The fractional CTO has asked you to investigate using AWS AppSync (a hosted vers
 ```
 ✅
 ```
-## Possible Spend Considerations
+## [Possible Spend Considerations](https://docs.google.com/document/d/10Hec7Or1ZUedl0ye-05mVPhYFR5-ySh2K8ZbFqTxu1w/edit#bookmark=id.rrnte5qnq0rm)
 ```
 👉 AppSync has a good free-tier limit -  $4M 
 
