@@ -128,9 +128,9 @@ In summary, a micro-blogging platform with expiring posts can:
 🗹 and improving the overall user experience. 
 
 Additionally, it will increase sense of community and increase trust and safety among users.
-```
-What is the hardest challenge for micro-blogging platforms? Monetizing their platform for long terms sustainability and a strong exit strategy.
 
+What is the hardest challenge for micro-blogging platforms? Monetizing their platform for long terms sustainability and a strong exit strategy?
+```
 A micro-blogging platform with expiring posts can be great for monetization in several ways:
 📎 Increases user engagement: With expiring posts, users are more likely to be active and engaged on the platform, as they have a sense of urgency to view and interact with content before it disappears. This increased engagement can lead to more opportunities for monetization, such as through advertising or sponsored content.
 📎 Encourages user-generated content: By limiting the lifespan of posts, the platform can create an environment where users are more likely to create and share new content, rather than just scrolling through old posts. This user-generated content can be monetized through advertising or sponsored content.
@@ -140,11 +140,13 @@ A micro-blogging platform with expiring posts can be great for monetization in s
 ```
 
 In summary, a micro-blogging platform with expiring posts can be great for monetization as it:
+```
 🗹  increases user engagement, 
 🗹  encourages user-generated content, 
 🗹  creates a sense of exclusivity, 
 🗹  enhances the platform's ability to target ads, 
 🗹  and provides opportunities for in-platform transactions.
+```
 
 All of these features can increase the value of the platform for advertisers and lead to more revenue opportunities.
 

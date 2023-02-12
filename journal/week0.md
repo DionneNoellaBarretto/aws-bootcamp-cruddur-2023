@@ -37,6 +37,11 @@ The company also wants to generally know what spend we expect to encounter and h
 👉 You need a credit card to activate your AWS Account
 👉 If your AWS account is older than a year, you will not be eligible for some free-tier services.
 ```
+
+👉  (Considerations](https://www.youtube.com/watch?v=OVw3RrlP-sI&t=851s)
+
+![Manage Cloud Costs using these Tabs](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-ManageCloudCosts.png)
+
 ## Alternatives and Considerations
 ```
 TBD
@@ -71,7 +76,7 @@ TBD
 
 ✅ Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
  ([HighLevel CI/CD Architecture Flow](https://lucid.app/lucidchart/8dd4bb31-a6b9-480b-986f-65f8256dc229/edit?invitationId=inv_743505e2-23ee-42d6-84dc-aabcde24a6d3))
-![HighLevel CI/CD Architecture Dgm](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/ac3068aa20af8d9d8bd11c39563ecdcc0b2347b8/_docs/Week0-%20Highlevel%20Architecture.png)
+![HighLevel CI/CD Architecture Dgm](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/bbdd9533c80553702b5305f7fff7db499751a2ad/_docs/Week0%20-%20CI_CD%20Architecture%20Diagram.png)
 ## Highlevel Architecture /CI CD Pipeline Considerations (Well Architecture Framework Inspired):
 ### To architect a Twitter Clone/Similar Microservice Application on AWS, the following steps should be considered:
 
