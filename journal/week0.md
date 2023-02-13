@@ -49,7 +49,9 @@ The company also wants to generally know what spend we expect to encounter and h
 🔐 [Disable regions you do not plan to use to reduce open ports susceptible to breach](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws-enable-disable-regions.html)
 🔐 [Create an Org Unit to centralize management of users/groups from here](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_tutorials_basic.html)
 🔐 [Enable AWS Cloud Trail for data security api usage tracking, and residency for IR/Forensics audit logging](https://www.amazonaws.cn/en/cloudtrail/)
-
+🔐 Create IAM Users with MFA's to not have to run day 2 operations using root user credentials, enable others in your organization using [principle of least privilege](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html) to leverage aws for cloud operations
+🔐 Create IAM [Roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html) vs [Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html)
+🔐 Create Org-level [Service Control Policies (SCP)](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html)
 ## Homework Challenges
 ✅ [[Installed AWS CLI Latest version]((https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)) on GitPod Desktop with [env variables](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)]
 ![CLI Installed on GP Desktop](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-AWS%20CLI%20Installed%20on%20GP%20Desktop.png)
@@ -72,9 +74,12 @@ The company also wants to generally know what spend we expect to encounter and h
 ![Billing Alert](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-Billing%20Alerts.png)
 ![Budget](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-Budget.png)
 
+✅ [Applied Org-level Day0 SCP's](https://github.com/hashishrajan/aws-scp-best-practice-policies)
+![SCP Created](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-SCP.png)
+
 ✅ Review all the questions of each pillars in the [Well Architected](https://aws.amazon.com/architecture/well-architected/) Tool (No specialized lens)
 
-✅Configure AWS Cloud Trail 
+✅![Configure AWS Cloud Trail](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-CloudTrailEnabled.png)
 
 ✅ Research the technical and [service limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html) of specific services and how they could impact the technical path for technical flexibility
 
