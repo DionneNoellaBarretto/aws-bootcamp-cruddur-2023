@@ -38,14 +38,16 @@ The company also wants to generally know what spend we expect to encounter and h
 👉 If your AWS account is older than a year, you will not be eligible for some free-tier services.
 ```
 
-👉  (Considerations](https://www.youtube.com/watch?v=OVw3RrlP-sI&t=851s)
+👉 [Other Cost Considerations by Chirag](https://www.youtube.com/watch?v=OVw3RrlP-sI&t=851s)
 
 ![Manage Cloud Costs using these Tabs](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-ManageCloudCosts.png)
 
+## [Security Considerations by Ashish](https://www.youtube.com/watch?v=4EMWBYVggQI&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=15)
 ## Homework Challenges
-✅ [ [Installed AWS CLI Latest version]((https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)) on GitPod Desktop with [env variables](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)]
-![CLI Installed](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-Env%20variables.png)
+✅ [[Installed AWS CLI Latest version]((https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)) on GitPod Desktop with [env variables](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)]
+![CLI Installed on GP Desktop](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-AWS%20CLI%20Installed%20on%20GP%20Desktop.png)
 ![Env Variables](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-Env%20variables.png)
+![Created Account ID Env Variable](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-Created%20AccountID%20Env%20Variable.png)
 ![GP Persistent Env Variables](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-GPEnvVariablesPersisting.png)
 ![Get Account Contact Information on GP](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-GP-Account-GetContactInformation.png)
 ✅ [Installed AWS CLI Command Prompter](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-parameters-prompting.html)
@@ -70,6 +72,7 @@ The company also wants to generally know what spend we expect to encounter and h
 
 ✅ [Use EventBridge to hookup Health Dashboard](https://docs.aws.amazon.com/health/latest/ug/cloudwatch-events-health.html#creating-event-bridge-events-rule-for-aws-health) to SNS and send notification when there is a service health issue
 ![EventBridge SNS Notification rule](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-EventBridge%20Alerts.png)
+![SNS Notification Confirmation](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-EventBridge%20SNS%20Alert%20Confirmation.png)
 
 ✅ Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
  ([HighLevel CI/CD Architecture Flow](https://lucid.app/lucidchart/8dd4bb31-a6b9-480b-986f-65f8256dc229/edit?invitationId=inv_743505e2-23ee-42d6-84dc-aabcde24a6d3))
