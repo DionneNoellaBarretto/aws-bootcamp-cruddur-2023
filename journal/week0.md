@@ -42,7 +42,13 @@ The company also wants to generally know what spend we expect to encounter and h
 
 ![Manage Cloud Costs using these Tabs](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-ManageCloudCosts.png)
 
-## [Security Considerations by Ashish](https://www.youtube.com/watch?v=4EMWBYVggQI&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=15)
+## [Security Considerations by Ashish Rajan](https://www.youtube.com/watch?v=4EMWBYVggQI&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=15)
+
+🔐 [What Cloud Security is, Why bother?](https://aws.amazon.com/free/security/?trk=9bc21f40-12f4-4d2b-8b8d-6f6f65ab19e6&sc_channel=ps&s_kwcid=AL!4422!3!614802967560!e!!g!!aws%20cloud%20security&ef_id=CjwKCAiAuaKfBhBtEiwAht6H7y0cpEY7-drZmPCfhisgX8A6ogdvzikiEwWk9Njz0F9HxvWJug8YIBoCGPYQAvD_BwE:G:s&s_kwcid=AL!4422!3!614802967560!e!!g!!aws%20cloud%20security)
+🔐 Add MFA (if not deactivating root user) for the Root User since its the most powerful user in the AWS environment with access similar to domain admins in the on prem world!
+🔐 [Disable regions you do not plan to use to reduce open ports susceptible to breach](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws-enable-disable-regions.html)
+🔐 [Create an Org Unit to centralize management of users/groups from here](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_tutorials_basic.html)
+
 ## Homework Challenges
 ✅ [[Installed AWS CLI Latest version]((https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)) on GitPod Desktop with [env variables](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)]
 ![CLI Installed on GP Desktop](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-AWS%20CLI%20Installed%20on%20GP%20Desktop.png)
