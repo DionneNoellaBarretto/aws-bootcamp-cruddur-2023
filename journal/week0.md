@@ -48,6 +48,7 @@ The company also wants to generally know what spend we expect to encounter and h
 🔐 Add MFA (if not deactivating root user) for the Root User since its the most powerful user in the AWS environment with access similar to domain admins in the on prem world!
 🔐 [Disable regions you do not plan to use to reduce open ports susceptible to breach](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws-enable-disable-regions.html)
 🔐 [Create an Org Unit to centralize management of users/groups from here](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_tutorials_basic.html)
+🔐 [Enable AWS Cloud Trail for data security api usage tracking, and residency for IR/Forensics audit logging](https://www.amazonaws.cn/en/cloudtrail/)
 
 ## Homework Challenges
 ✅ [[Installed AWS CLI Latest version]((https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)) on GitPod Desktop with [env variables](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)]
@@ -56,18 +57,24 @@ The company also wants to generally know what spend we expect to encounter and h
 ![Created Account ID Env Variable](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-Created%20AccountID%20Env%20Variable.png)
 ![GP Persistent Env Variables](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-GPEnvVariablesPersisting.png)
 ![Get Account Contact Information on GP](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-GP-Account-GetContactInformation.png)
+
 ✅ [Installed AWS CLI Command Prompter](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-parameters-prompting.html)
 ![Get Caller Identity](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-GetCallerIdentity.png)
 ![Get Account Contact Information](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-Account-GetContactInformation.png)
+
 ✅ [Destroy your root account](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#id_root-user_manage_delete-key), [Set MFA](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html), [IAM role](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user.html)
 ![MFA, IAM user](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-%20IAM%20Logged%20in.png)
 ![IAM user logging in](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-%20IAM%20Login.png)
+
+✅ ![Created Org Unit](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-Org%20Unit%20Creation.png)
 
 ✅ [Set a billing alarm](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html#turning_on_billing_metrics), [Set a AWS Budget](https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-create.html), [Set Budget Notifications using CLI](https://docs.aws.amazon.com/cli/latest/reference/budgets/create-budget.html)
 ![Billing Alert](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-Billing%20Alerts.png)
 ![Budget](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-Budget.png)
 
 ✅ Review all the questions of each pillars in the [Well Architected](https://aws.amazon.com/architecture/well-architected/) Tool (No specialized lens)
+
+✅Configure AWS Cloud Trail 
 
 ✅ Research the technical and [service limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html) of specific services and how they could impact the technical path for technical flexibility
 
