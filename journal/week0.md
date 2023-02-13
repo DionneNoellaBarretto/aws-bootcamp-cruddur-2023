@@ -39,9 +39,6 @@ The company also wants to generally know what spend we expect to encounter and h
 ```
 
 👉 [Other Cost Considerations by Chirag](https://www.youtube.com/watch?v=OVw3RrlP-sI&t=851s)
-
-![Manage Cloud Costs using these Tabs](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-ManageCloudCosts.png)
-
 ## [Security Considerations by Ashish Rajan](https://www.youtube.com/watch?v=4EMWBYVggQI&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=15)
 
 🔐 [What Cloud Security is, Why bother?](https://aws.amazon.com/free/security/?trk=9bc21f40-12f4-4d2b-8b8d-6f6f65ab19e6&sc_channel=ps&s_kwcid=AL!4422!3!614802967560!e!!g!!aws%20cloud%20security&ef_id=CjwKCAiAuaKfBhBtEiwAht6H7y0cpEY7-drZmPCfhisgX8A6ogdvzikiEwWk9Njz0F9HxvWJug8YIBoCGPYQAvD_BwE:G:s&s_kwcid=AL!4422!3!614802967560!e!!g!!aws%20cloud%20security)
