@@ -84,7 +84,7 @@ The company also wants to generally know what spend we expect to encounter and h
 
 ✅ Review all the questions of each pillars in the [Well Architected](https://aws.amazon.com/architecture/well-architected/) Tool (No specialized lens)
 
-✅ Configured Cloud Trail ![Configure AWS Cloud Trail](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0-CloudTrailEnabled.png)
+✅ Configured Cloud Trail ![Configure AWS Cloud Trail](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/6938a0f830393ac3cadfcc3baab3e2657fecd273/_docs/Week0-CloudTrailEnabled.png)
 
 ✅ Research the technical and [service limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html) of specific services and how they could impact the technical path for technical flexibility
 
