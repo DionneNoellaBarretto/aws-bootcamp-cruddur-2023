@@ -100,6 +100,7 @@ The company also wants to generally know what spend we expect to encounter and h
 ✅ Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
  ([HighLevel CI/CD Architecture Flow](https://lucid.app/lucidchart/8dd4bb31-a6b9-480b-986f-65f8256dc229/edit?invitationId=inv_743505e2-23ee-42d6-84dc-aabcde24a6d3))
 ![HighLevel CI/CD Architecture Dgm](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/bbdd9533c80553702b5305f7fff7db499751a2ad/_docs/Week0%20-%20CI_CD%20Architecture%20Diagram.png)
+![Architecture Dgm](https://github.com/DionneNoellaBarretto/aws-bootcamp-cruddur-2023/blob/main/_docs/Week0%20-%20CI_CD%20Architecture%20Diagram%20(Andrew's%20walkthrough).png)
 ## Highlevel Architecture /CI CD Pipeline Considerations (Well Architecture Framework Inspired):
 ### To architect a Twitter Clone/Similar Microservice Application on AWS, the following steps should be considered:
 
